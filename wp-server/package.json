@@ -1,0 +1,11 @@
+{
+  "name": "wp-server",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "docker-compose": "docker-compose up -d && docker-compose logs -f wordpress",
+    "docker-shell": "docker-compose exec wordpress bash"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+# File system junk files
+Desktop.ini
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode
+.history
+
+# Wordpress
+wp-server/wp-content/themes/wp-theme/*
+wp-server/wp-content/plugins/wp-plugin/*
